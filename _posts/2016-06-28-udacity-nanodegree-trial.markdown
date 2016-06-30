@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Udacity Nanodegree Trial!"
+title:  "Udacity Nanodegree Trial"
 date:   2016-06-28 11:29:01 +0100
 categories: udacity
 ---
-So I have some free time until I start at Thoughtworks, so I've signed up to a few things. One of them is a trial with Udacity - I am giving the Full Stack Web Developer degree a go to strengthen my skills and perhaps learn something new. I've heard pretty good feedback on their platform so far, and we'll see. I might end up taking the whole thing.
+So I've signed up for a trial with Udacity - I am giving the Full Stack Web Developer degree a go to strengthen my skills and perhaps learn something new. I've heard pretty good feedback on their platform so far, and we'll see. I might end up taking the whole thing.
 
 It's been pretty crazy lately but I finally had some time and have taken a look at the course.
 
