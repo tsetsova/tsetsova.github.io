@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Precourse: Check!"
-date:   2015-12-15 14:10:01 +0100
+date:   2016-01-17 18:34:08 +0100
 categories: makers
 ---
 
