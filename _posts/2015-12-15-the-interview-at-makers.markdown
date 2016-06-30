@@ -13,13 +13,15 @@ I was pretty nervous. I’ve never really coded in front of someone else. I real
 
 ![image from the simpsons](https://makersandlegos.files.wordpress.com/2015/12/simpsons.gif)
 
-**_Cant ...solve things... with my brains.. by which I mean coding.._**
+##### Cant ...solve things... with my brains.. by which I mean coding..
 
 I think the worst thing that can happen, apart from not working through the required material, is to let yourself be flooded with stress.
 
 If that happens to you often just repeat after me – I’m GOOD at emotion and you’re going to eventually believe it!
 
 ![captain holt from brooklyn nine nine](https://makersandlegos.files.wordpress.com/2015/12/giphy.gif?w=288&h=288)
+
+##### So.. very... good
 
 As I was walking down Commercial Street on the way to the Makers Office, I remembered something I read in some wellbeing book – turn everything into a learning experience. Not just the good stuff like a great lecture or an exciting book.
 

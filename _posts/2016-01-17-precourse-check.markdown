@@ -17,19 +17,19 @@ I kinda thought of it as something quaint and outdated kinda like record players
 
 ![Old-fashioned computer](https://makersandlegos.files.wordpress.com/2016/01/giphy-2.gif?w=870&h=870)
 
-**_That’s what I imagined the command line looks like_**
+##### That’s what I imagined the command line looks like
 
 But without realising it, I now use it to open most files, install most things, and even log tasks on it with Taskwarrior! I quickly transitioned from feeling like this:
 
 ![Tom Hanks slowly typing](https://makersandlegos.files.wordpress.com/2016/01/bqcxapk.gif?w=730)
 
-**_Terminal.. nah, cmd+space!_**
+##### Terminal.. nah, cmd+space!
 
 to this:
 
 ![Tony Stark being futuristic](https://makersandlegos.files.wordpress.com/2016/01/giphy.gif?w=730)
 
-**_I am sooo futuristic when I auto-complete file paths_**
+##### I am sooo futuristic when I auto-complete file paths
 
 As for **github**, it’s amazing! There should be something like this for digital artists… My process always ended up like this: v1, v2, v2-newer, v2-newest, v5, v-final, final version, final-version-edit, FINAL_version, FINAL_version_1…
 
@@ -49,7 +49,7 @@ These weeks were a blur for me. Oh wait, I remember .. something!
 
 ![99 bottles of beer on the wall](https://makersandlegos.files.wordpress.com/2016/01/99-bottles.gif?w=549&h=379)
 
-_**Thanks Chris Pine! I’m ruined for life now..**_
+##### Thanks Chris Pine! I’m ruined for life now..
 
 Honestly there’s way too many things I learned these two weeks. It would be impossible to summarise all of them, but here are a few of the highlights:
 
@@ -89,11 +89,11 @@ Then once the test passes you write another one and so on. There’s a lot of go
 * If you break something there’s a big chance you can pinpoint what you broke
 * You gain structure and discipline doing one specific thing at a time
 
-But testing can also feel like this:
+##### But testing can also feel like this:
 
 ![kid doesn't want to hit pinata](https://i0.wp.com/38.media.tumblr.com/538c84f63765a398b291429a55882331/tumblr_inline_n6vkoiTSqe1raprkq.gif)
 
-or like this:
+##### and also like this:
 
 ![test doesn't work as expected](https://i2.wp.com/38.media.tumblr.com/c51876c7104492f62b827b1e34f93fab/tumblr_inline_mhagxdlsyz1qz4rgp.gif)
 

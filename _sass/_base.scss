@@ -43,8 +43,13 @@ ul, ol, dl, figure,
  * Images
  */
 img {
+    min-width: 400px;
     max-width: 100%;
     vertical-align: middle;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
 }
 
 
@@ -85,7 +90,17 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: $base-font-weight;
 }
 
+h5 {
+  color: $grey-color;
+  font-size: 16px;
+  letter-spacing: -1px;
+  font-style: italic;
+  text-align: center;
 
+  > :last-child {
+      margin-bottom: 0;
+  }
+}
 
 /**
  * Links
