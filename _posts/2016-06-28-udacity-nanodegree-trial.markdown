@@ -10,9 +10,9 @@ I've heard really good feedback about the platform so far, so I might end up tak
 
 ### **Inclusive and friendly**
 
-I was pleasantly surprised. The initial vibe I got off the platform before I signed up was pretty serious and a bit.. cold perhaps. On the other hand, I had no doubts that it was legit and I'd learn a lot.
+I was pleasantly surprised. The initial vibe I got off the platform before I signed up was pretty sleek and a bit.. cold perhaps. On the other hand, I had no doubts that it was legit and I'd learn a lot.
 
-The pace is actually really manageable, even slow. I think that's pretty awesome because if I were just starting out with coding, I'd find the pace really good, I think.
+The pace is actually really manageable, even slow. I think that's pretty awesome because if I were a beginner, I'd find the pace really good, I think.
 
 Udacity have also put a lot of emphasis on having good working habits like working a bit every day, taking the degree seriously and planning your time well. I know from experience I sign up to MOOCS and never finish them so I appreciate their interest in me **taking the degree seriously**.
 
