@@ -49,7 +49,7 @@ I'd even prefer a simple checkmark - green if you've passed minimum requirements
 
 **Video flow**
 
-Another thing that bothers me about UX is how slow the videos are.
+Another thing that bothers me about UX is how short the videos are.
 
 A lot of the ones in the beginning are less than a minute long!
 
