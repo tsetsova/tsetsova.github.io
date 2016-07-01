@@ -49,9 +49,7 @@ I'd even prefer a simple checkmark - green if you've passed minimum requirements
 
 **Video flow**
 
-Another thing that bothers me about UX is how short the videos are.
-
-A lot of the ones in the beginning are less than a minute long!
+Another thing that bothers me about UX is how short the videos are - many are less than a minute long!
 
 The instructor will start introducing a topic, let's say: launching Python. Then once he launches everything the video ends before he actually does anything. Then I have to either wait for autoplay to start the next video or manually select it. Then in the next video he will write one or two lines of code, run them and end the video.
 
