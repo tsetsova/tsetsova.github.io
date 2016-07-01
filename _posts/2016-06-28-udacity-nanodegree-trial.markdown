@@ -31,7 +31,7 @@ There are a few small things that keep bothering me. They really are small and a
 
 **Confirmation Pop-ups**
 
- I find their pop ups messages a bit verbose and distracting. Remember the message I was talking about earlier - the 'no Python' experience one? Well, I almost missed it entirely. In fact I closed it, then realized it said something important and resubmitted my response to read it again:
+ I find their pop ups messages a bit verbose and distracting. Remember the message I was talking about earlier - the 'no Python' experience one? Well, I almost missed it entirely. In fact I closed it, then realised it said something important and resubmitted my response to read it again:
 
 ![insufficient experience message](http://i.imgur.com/qdK70ZI.png)
 
@@ -41,7 +41,7 @@ As you can see it looks really similar to the 'succesful one':
 
 I assume it's on purpose to not differentiate between them to be more inclusive, but I think messages should be easy to read, especially if they are important!
 
-This might sound like nitpicking but there's a lot of these pop ups. You get one every time you a question for example. And in that particular section there was a number of questions and pop ups in a roll.
+This might sound like nitpicking but there's a lot of these pop ups. You get one every time you a answer a question for example. And in that particular section there was a number of questions and pop ups in a roll.
 
 I think the illustration is pretty and friendly, but it's very large and distracting. There's a lot going on in that one pop up and I can't tell if I answered a question successfully or not. The font is small and difficult to read. With messages like these I'd prefer less text, easier readability, and really unobtrusive design. This way the user can just let their eyes glance over the text and only have to pay attention when its necessary.
 
