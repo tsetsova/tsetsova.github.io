@@ -63,4 +63,4 @@ On the other hand, the projects and curriculum so far look pretty interesting. I
 
 Less than an hour in the degree you get to make real tangible changes on your computer. Firing up Chrome just by running a small line of code is definitely a lot more fun than the way I learned coding in school - looping through an array to find the smallest even number or what have you.
 
-So my overall impression so far is pretty positive. Apart from a couple of small frustrations with the UX the curriculum looks quite intersting and I'm excited to keep going through it.
+So my overall impression so far is pretty positive. Apart from a couple of small frustrations with the UX the curriculum looks quite interesting and I'm excited to keep going through it.
