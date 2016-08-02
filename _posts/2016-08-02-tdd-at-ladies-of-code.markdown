@@ -61,7 +61,7 @@ I found it hard to keep track of mistakes I made because I like to think I don't
 
 Noting your typical mistakes helps prevent them from turning into habits. It also shows you where you need more work to be more comfortable with your tools or language.
 
-## **Try new things out**
+## **Try out new things**
 
 A big benefit of kata practice has been finding out new unexpected ways to do things. Once you've done the same kata enough times, you'll probably get a bit bored! And you might not want to try out too many new things in big projects, but I think experimenting with different kata solutions is great for learning.
 
@@ -81,7 +81,7 @@ The idea is simple: there are properties of your methods and their output that s
 
 Once you know your domain well, you can come up with these rules and the library will create random numbers for you and run multiple tests against each property. One thing Rantly does well is it shrinks the number to the smallest one that breaks your test. This makes it easier to find what is missing in your program, because it's not just any random number. The tests will continue to break consistently because of the same reason.
 
-Here's an example property test using Rantly
+Here's an example property test using Rantly:
 
 ```
 require ‘rantly/rspec_extensions'
@@ -99,7 +99,7 @@ require ‘rantly/rspec_extensions'
   end
 ```
 
-And here's the code for Roman Numerals
+And here's the code for Roman Numerals:
 
 ```
 class RomanNumerals
@@ -121,6 +121,6 @@ end
 ```
 Say I only have a solution implementing 1-10 ("I" to "X"), like the one above. Now let's say I want the code to work from 0 to 100. The current code would work up to 39, but I may not know that. Perhaps my codebase is too complicated or big or I don't even know the codebase. All current unit tests are passing. But I can't see the limitation.
 
-If I know certain facts that should always be right I can now test for those! I find this to be magical :)
+If I know certain properties that should always be true I can now test for those! I find this to be magical :)
 
 Give property testing a try at least, I've been really impressed with what it can do!
